@@ -32,3 +32,23 @@ Judgement: FALSE
 Comments: Quoting from 211: "Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive.  Players whose proposals are not adopted shall lose 10 points."
 
 Use of the term "players" over  "a player" can grammatically refer to multiple players. Similarly in rule 204: "Only Voters may make proposals" the language does not use a singular noun, and therefore it would be valid to have multiple voters making a single proposal.
+
+**CFJ-03**
+
+Called by: @h2g2_researcher (speaker)
+
+Judge: @silverlava (voter, chosen randomly)
+
+Statement to be judged:
+
+> A single proposal may create, amend, or repeal multiple rules.
+
+Judgement: FALSE
+
+Rule 105 states that a rule change is defined as the enactment, repeal, or amendment of a mutable rule.
+
+“A mutable rule” is singular. Therefore, each proposal can only affect one rule.
+
+If this were to be judged true, and a proposal that amends multiple rules were to pass, then according to rule 109, both amended rules would receive the number of the proposal.
+
+Having two rules with the same number would be confusing and annoying to work with.
