@@ -334,18 +334,6 @@ Initial Mutable Rule 210, Jul. 11 2018
 
 ----------------------------------------------------------------------
 
-Rule 211 (Mutable)
-
-      Voters who voted against proposals which are adopted receive 10
-      points apiece.  Players whose proposals are adopted shall receive
-      a random number of points in the range 1-10 inclusive.  Players
-      whose proposals are not adopted shall lose 10 points.
-
-History:
-Initial Mutable Rule 211, Jul. 11 2018
-
-----------------------------------------------------------------------
-
 Rule 212 (Mutable)
 
       If two or more mutable rules conflict with one another, or if
@@ -466,5 +454,24 @@ Rule 219 (Mutable)
 
 History:
 Initial Mutable Rule 219, Jul. 11 2018
+
+----------------------------------------------------------------------
+
+Rule 302 (Mutable)
+
+      Each voter who voted on a given proposal shall receive 5 points
+      for each proposal e voted upon.  Each player whose proposal or
+      proposals is or are adopted shall receive 8 points for each
+      adopted proposal, and an additional point for every person who
+      voted in favor of eir proposal or proposals.  Each player whose
+      proposal or proposals is or are not adopted shall lose a number
+      of points equivalent to the number of players who voted against
+      eir proposal or proposals. All points are to be distributed
+      immediately after votes on proposals are revealed, in accordance
+      with Rules 205, 207, and 208.
+
+History:
+Initial Mutable Rule 211, Jul. 11 2018
+Mutable Rule 302, Jul. 19 2018
 
 ----------------------------------------------------------------------
