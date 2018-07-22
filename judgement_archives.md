@@ -52,3 +52,19 @@ Rule 105 states that a rule change is defined as the enactment, repeal, or amend
 If this were to be judged true, and a proposal that amends multiple rules were to pass, then according to rule 109, both amended rules would receive the number of the proposal.
 
 Having two rules with the same number would be confusing and annoying to work with.
+
+**CJF-04**
+
+Called by: @JustSomeSmallQs
+
+Judge: @h2g2_researcher (speaker)
+
+Statement:
+
+> Public votes are equally as enforceable for the purposes of the rules as votes sent privately to the Speaker, so a vote sent publicly need not also be sent privately to the Speaker
+
+Verdict: UNDECIDED
+
+The only requirement on a vote is that it is received by the speaker. This implies the speaker may accept any clear and unambiguous statement to vote at eir discretion. By convention a private message sent to the speaker has been accepted. However, the speaker is under no particular obligation to monitor the various chats, and a vote simply left on a proposal discussion thread may be a) interpreted as midirection, and b) isn't aimed at the speaker necessarily. (Certainly if the speaker doesn't acknowledge it as cast vote, it cannot be considered as such.)
+
+It is therefore recommended that votes are cast via PM to the speaker, or - if the player insists on voting publicly - the speaker should be tagged with @Speaker to ensure e is aware of the vote cast.
