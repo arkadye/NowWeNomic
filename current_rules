@@ -491,13 +491,40 @@ Mutable Rule 305, Jul. 23 2018
 
 ----------------------------------------------------------------------
 
-Rule 308 (Mutable)
+Rule 314 (Mutable)
 
       The Nomicookie, abbreviated nom or NC, is the official currency
       of Now We Nomic. NC can only be created or destroyed in ways the
       rules describe.
+      
+      - Each Player can own a certain whole, non-negative number of NC
+      - There exist a non-Player entity named Central Bank of
+            NomiCookies, known as CBNC or the Bank, which can own NC as
+            if it were a Player
+      - The Bank is headed by a Banker, who records and carries out
+            transactions publicly. 
+      - Each exchange has to be announced on the dedicated public
+            discussion channel, the CookieMarket and acknowledged by
+            the Banker
+      - Players can freely exchange noms between em
+
+      - Upon the passing of this rule, each Player gains 500 Noms and
+            the Bank gains 500 Noms per Player. 
+      - Upon a Player joining the server, e gain 500 Noms, and the
+            CBNC gains 500 Noms. Upon a Player leaving the server
+            they loose all NC e had and the CBNC looses 500 Noms.
+
+
+      - The Banker is elected as follows:
+            * A call for Candidates is issued by the Speaker
+            * Any Voter may stand a candidate
+            * Candidates for the role of Banker have 1 week to declare
+            * A voting ensues with the default proposal voting standards
+            * The Speaker names the Banker when announcing the vote results
+      - If the Banker resigns, a new Banker election happens
 
 History:
 Mutable Rule 308, Jul. 24 2018
+Mutable Rule 314, Aug. 1 2018
 
 ----------------------------------------------------------------------
