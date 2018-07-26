@@ -295,21 +295,51 @@ Initial Mutable Rule 208, Jul. 11 2018
 
 ----------------------------------------------------------------------
 
-Rule 209 (Mutable)
+Rule 315 (Mutable)
 
-      The required votes for a proposal to be adopted is as follows:
-          For a proposal which would directly alter the actions which are
-          required of and/or forbidden to the Speaker:
-                 a) a simple majority of all votes legally cast, if the
-                    Speaker consents;
-                 b) a 2/3 majority of all votes legally cast, if the
-                    Speaker does not consent;
-          For all other proposals, a simple majority of votes legally cast.
+      The requirements for a proposal to be adopted is as follows:
+            i) The proposer has declared a rule style, which can be
+                  scroll, clay tablet, stone tablet, or tome.
+
+      If the declared style is a scroll, 
+            a) A simple majority of all votes legally cast, unless the
+                  proposal would directly alter the actions which are
+                  required of and/or forbidden to the Speaker, in which
+                  case, it requires a 2/3 majority, unless the Speaker
+                  consents.
+
+      If the declared style is a clay tablet, 
+            a) Greater than 75% of all votes legally cast, unless the
+                  proposal would directly alter the actions which are
+                  required of and/or forbidden to the Speaker, in
+                  which case, it requires greater than an 90%
+                  majority, unless the Speaker consents.
+ 
+      If the declared style is a tome, and it is being proposed and
+      not amended or added to, 
+            a) A simple majority of all votes legally cast, unless
+                  the proposal would directly alter the actions which
+                  are required of and/or forbidden to the Speaker, in
+                  which case, it requires a 2/3 majority.
+            b) A declared purpose for the tome, which all sections of
+                  the tome must pertain to.
+            c) A nickname for the tome.
+
+      If the declared style is a tome, and it is being amended, or
+      added to, 
+            a) A simple majority of all votes legally cast, unless the
+                  proposal would directly alter the actions which are
+                  required of and/or forbidden to the Speaker, in which
+                  case, it requires a 2/3 majority.
+            b) the amended portion must still pertain to the purpose of
+                  the tome, as it was originally declared.
+
       This rule defers to rules which set the required number of votes
       for proposals which propose to transmute a rule.
 
 History:
 Initial Mutable Rule 209, Jul. 11 2018
+Mutable Rule 315, Aug. 2 2018
 
 ----------------------------------------------------------------------
 
