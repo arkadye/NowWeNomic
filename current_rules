@@ -225,9 +225,9 @@ Initial Mutable Rule 202, Jul. 11 2018
 
 ----------------------------------------------------------------------
 
-Rule 203 (Mutable)
+Rule 310 (Mutable)
 
-      The winner is the first Voter to achieve 100 (positive) points.
+      The winner is the first Voter to achieve 200 (positive) points.
       If more than one Voter achieves this condition simultaneously, all
       such Voters win.
       When a game ends in this manner:
@@ -242,6 +242,7 @@ Rule 203 (Mutable)
 
 History:
 Initial Mutable Rule 203, Jul. 11 2018
+Mutable Rule 210, Jul. 27 2018
 
 ----------------------------------------------------------------------
 
