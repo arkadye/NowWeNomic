@@ -225,7 +225,7 @@ Initial Mutable Rule 202, Jul. 11 2018
 
 ----------------------------------------------------------------------
 
-Rule 310 (Mutable)
+Rule 313 (Mutable)
 
       The winner is the first Voter to achieve 200 (positive) points.
       If more than one Voter achieves this condition simultaneously, all
@@ -242,7 +242,8 @@ Rule 310 (Mutable)
 
 History:
 Initial Mutable Rule 203, Jul. 11 2018
-Mutable Rule 210, Jul. 27 2018
+Mutable Rule 310, Jul. 27 2018
+Mutable Rule 313, Aug. 1 2018
 
 ----------------------------------------------------------------------
 
