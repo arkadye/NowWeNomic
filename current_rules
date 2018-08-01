@@ -230,7 +230,7 @@ Rule 310 (Mutable)
       The winner is the first Voter to achieve 200 (positive) points.
       If more than one Voter achieves this condition simultaneously, all
       such Voters win.
-      When a game ends in this manner:
+      When at least one voter wins the game:
         -If there is only one winner, that Voter becomes the Speaker, and
          the old Speaker becomes a Voter
         -If there is more than one winner, the Speaker randomly selects
